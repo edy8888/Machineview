@@ -1,0 +1,368 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using HalconDotNet;
+using System.Windows.Forms;
+using System.Text.RegularExpressions;
+using System.Runtime.Serialization; 
+namespace PMACam
+{
+    [Serializable]
+    public partial class PointLine : Form, ISerializable
+    {
+        public PointLine(ExecuteBuffer buffer, bool addbuffer)
+        {
+            InitializeComponent();
+            if (addbuffer)
+            {
+                if (buffer != null)
+
+                    SetParaImage(buffer); 
+            }
+
+            this.cbb_Inputsource.SelectedIndex = 0;
+            this.cbb_inputsource2.SelectedIndex = 0;
+            this.panel_inno1.Visible = false;
+           // this.panel_inno2.Visible = false;
+
+
+        }
+
+        public void WriteData(List<string> n_Path, int j)
+        {
+            IniFile IniFile = new IniFile(n_Path[0] + n_Path[1]);
+            IniFile.IniWriteValue(j.ToString(), "Tool_Name", this.GetType().Name);
+
+            IniFile.IniWriteValue(j.ToString(), "TransSource", this.cbb_Inputsource.SelectedIndex.ToString());
+            IniFile.IniWriteValue(j.ToString(), "TransSource2", this.cbb_inputsource2.SelectedIndex.ToString());
+            IniFile.IniWriteValue(j.ToString(), "InitialNumber", this.tb_innumber.Text.ToString());
+            IniFile.IniWriteValue(j.ToString(), "ListNumber", this.tb_outnumber.Text.ToString());
+            IniFile.IniWriteValue(j.ToString(), "ListNumber12", this.tb_outnumber12.Text.ToString());
+            IniFile.IniWriteValue(j.ToString(), "Txtnumber", this.txt_number2.Text.ToString());
+
+        }
+
+        public PointLine(SerializationInfo info, StreamingContext context) 
+    {
+        InitializeComponent();
+        this.cbb_Inputsource.SelectedIndex = 0;
+        this.cbb_inputsource2.SelectedIndex = 0;
+        this.panel_inno1.Visible = false;
+
+
+        this.cbb_Inputsource.SelectedIndex = (Int32)(info.GetValue("TransSource", typeof(Int32)));
+        this.cbb_inputsource2.SelectedIndex = (Int32)(info.GetValue("TransSource2", typeof(Int32)));
+        this.tb_innumber.Text = (string)(info.GetValue("InitialNumber", typeof(string)));
+        this.tb_outnumber.Text = (string)(info.GetValue("ListNumber", typeof(string)));
+        this.tb_outnumber12.Text = (string)(info.GetValue("ListNumber12", typeof(string)));
+        this.txt_number2.Text = (string)(info.GetValue("Txtnumber", typeof(string)));
+
+}
+        public void GetObjectData(SerializationInfo info, StreamingContext context)
+        {
+            info.AddValue("Tool_Name ", this.GetType().Name);
+            info.AddValue("InitialNumber", this.tb_innumber.Text.ToString());
+            info.AddValue("TransSource", this.cbb_Inputsource.SelectedIndex.ToString());
+            info.AddValue("TransSource2", this.cbb_inputsource2.SelectedIndex.ToString());
+            info.AddValue("ListNumber", this.tb_outnumber.Text.ToString());
+            info.AddValue("ListNumber12", this.tb_outnumber12.Text.ToString());
+            info.AddValue("Txtnumber", this.txt_number2.Text.ToString());
+
+
+
+
+
+        } 
+        internal void ReadData(List<string> n_Path, int j)
+        {
+
+            IniFile IniFile = new IniFile(n_Path[0] + n_Path[1]);
+          //  int Selectnumber = Convert.ToInt32(IniFile.IniReadValue(j.ToString(), "TransType"));
+
+        //    int Selectnumber1 = Convert.ToInt32(IniFile.IniReadValue(j.ToString(), "TransType1"));
+
+
+            if (IniFile.IniReadValue(j.ToString(), "TransSource") != "")
+            this.cbb_Inputsource.SelectedIndex = Convert.ToInt32(IniFile.IniReadValue(j.ToString(), "TransSource"));
+            if (IniFile.IniReadValue(j.ToString(), "TransSource2") != "")
+            this.cbb_inputsource2.SelectedIndex = Convert.ToInt32(IniFile.IniReadValue(j.ToString(), "TransSource2"));
+
+            this.tb_innumber.Text = IniFile.IniReadValue(j.ToString(), "InitialNumber");
+            this.tb_outnumber.Text = IniFile.IniReadValue(j.ToString(), "ListNumber");
+            this.tb_outnumber12.Text = IniFile.IniReadValue(j.ToString(), "ListNumber12");
+            this.txt_number2.Text = IniFile.IniReadValue(j.ToString(), "Txtnumber");
+
+
+
+        }
+        public void Run_transform(ExecuteBuffer _executeBuffer, 模板GVName_halcon Model_result, 圆GVName_halcon Circle_result, Dictionary<int, PointName> Point_temp_result, out Dictionary<int, PointName> Point_out_result, List<直线GVName> newline)
+        {
+            int number_source = this.cbb_Inputsource.SelectedIndex;
+            int number_get = Convert.ToInt32(this.tb_innumber.Text.ToString());
+            HTuple x, y;
+            HTuple modelangle =0, modelregionangle = 0;
+            int inputlength1 = 0;
+            int number_line = Convert.ToInt32(this.txt_number2.Text);
+            Point_out_result = Point_temp_result;
+
+
+             if (number_source == 0)
+            {
+                if (Model_result == null)
+                {
+                    MessageBox.Show("点线距离：  输入为空，其中没有点位");
+                    return;
+                }
+
+                if (Model_result.点X.TupleLength() < 1)
+                {
+                    MessageBox.Show("点线距离：  输入阵列长度不够，达不到需求");
+                    return;
+
+                }
+                else
+                {
+                    x = Model_result.点Y;
+                    y = Model_result.点X;
+                    modelangle = Model_result.角度Angle;
+                    modelregionangle = Model_result.模板Angle;
+                    inputlength1 = Model_result.点X.TupleLength();
+
+                }
+
+            }
+            else if (number_source == 1)
+            {
+                if (Circle_result == null)
+                {
+                    MessageBox.Show("点线距离：  输入为空，其中没有点位");
+                    return;
+                }
+
+                if (Circle_result.圆心X.TupleLength() < 1)
+                {
+                    MessageBox.Show("点线距离：  输入阵列长度不够，达不到需求");
+                    return;
+
+                }
+                else
+                {
+                    x = Circle_result.圆心X;
+                    y = Circle_result.圆心Y;
+                    inputlength1 = Circle_result.圆心X.TupleLength();
+
+                }
+
+            }
+            else
+            {
+                if (Point_temp_result == null)
+                {
+                    MessageBox.Show("点线距离：  输入为空，其中没有点位");
+                    return;
+                }
+
+                if (Point_temp_result.ContainsKey(number_get))
+                {
+
+                    x = Point_temp_result[number_get].点X;
+                    y = Point_temp_result[number_get].点Y;
+                    inputlength1 = Point_temp_result[number_get].点X.TupleLength();
+
+                }
+                else
+                {
+
+                    MessageBox.Show("点线距离：  输入字典中没有该点位");
+                    return;
+                }
+
+            }
+
+             if (newline == null)
+             {
+                 MessageBox.Show("点线距离ROI:直线为空，请设置");
+                 return ;
+
+             }
+             if (newline.Count < 1)
+             {
+                 MessageBox.Show("点线距离ROI:直线为空，请设置");
+                 return ;
+             }
+             if (newline.Count <= number_line)
+             {
+                 MessageBox.Show("点线距离ROI:直线编号过大，请修改");
+                 return;
+             }
+             double xrow1 = Convert.ToDouble(newline[number_line].点1X);
+             double xcol1 = Convert.ToDouble(newline[number_line].点1Y);
+             double xrow2 = Convert.ToDouble(newline[number_line].点2X);
+             double xcol2 = Convert.ToDouble(newline[number_line].点2Y);
+            HTuple output_x,output_y,distance;
+            HOperatorSet.ProjectionPl(x, y, xrow1, xcol1, xrow2, xcol2, out output_x, out output_y);
+            HOperatorSet.DistancePl(x, y, xrow1, xcol1, xrow2, xcol2, out distance);
+
+                int out_number_list = Convert.ToInt32(this.tb_outnumber.Text.ToString());
+                if (Point_temp_result.ContainsKey(out_number_list))
+                {
+                    Point_temp_result[out_number_list].点X = output_x;
+                    Point_temp_result[out_number_list].点Y = output_y;
+                }
+                else
+                   Point_temp_result.Add(out_number_list, new PointName(output_x, output_y));
+
+                int out_number_list1 = Convert.ToInt32(this.tb_outnumber12.Text.ToString());
+                if (Point_temp_result.ContainsKey(out_number_list1))
+                {
+                    Point_temp_result[out_number_list].点X = distance;
+                    Point_temp_result[out_number_list].点Y = 0;
+                }
+                else
+                    Point_temp_result.Add(out_number_list1, new PointName(distance, 0));
+
+                Point_out_result = Point_temp_result;
+
+                this.label_show.Text = "点线距离：" + distance.ToString() +"\n" +"焦点X：" + output_x.ToString() + "\n" + "焦点y：" + output_y.ToString(); 
+            
+            }
+
+
+
+            
+
+
+
+
+
+
+
+
+        
+
+        public bool IsNumber(String strNumber)
+        {
+            Regex objNotNumberPattern = new Regex("[^0-9.-]");
+            Regex objTwoDotPattern = new Regex("[0-9]*[.][0-9]*[.][0-9]*");
+            Regex objTwoMinusPattern = new Regex("[0-9]*[-][0-9]*[-][0-9]*");
+            String strValidRealPattern = "^([-]|[.]|[-.]|[0-9])[0-9]*[.]*[0-9]+$";
+            String strValidIntegerPattern = "^([-]|[0-9])[0-9]*$";
+            Regex objNumberPattern = new Regex("(" + strValidRealPattern + ")|(" + strValidIntegerPattern + ")");
+
+            return !objNotNumberPattern.IsMatch(strNumber) &&
+                   !objTwoDotPattern.IsMatch(strNumber) &&
+                   !objTwoMinusPattern.IsMatch(strNumber) &&
+                   objNumberPattern.IsMatch(strNumber);
+        }
+
+        public static bool IsNumeric(string value)
+        {
+            return Regex.IsMatch(value, @"^[+-]?/d*[.]?/d*$");
+        }
+        private void button1_Click(object sender, EventArgs e)
+        {
+            if (this.cbb_Inputsource.SelectedIndex == 3)
+            {
+                if (!IsNumber(this.tb_innumber.Text.ToString()))
+                {
+                    MessageBox.Show("算术计算：  输入点位编号1不是数字,请重新输入");
+                    return;
+                }
+            }
+            if (this.cbb_inputsource2.SelectedIndex == 1)
+            {
+
+
+            }
+            else
+            {
+                if (!IsNumber(this.txt_number2.Text.ToString()))
+                {
+                    MessageBox.Show("算术计算：  输入点位编号2不是数字,请重新输入");
+                    return;
+                }
+            
+            }
+
+            if (!IsNumber(this.tb_outnumber.Text.ToString()))
+            {
+                MessageBox.Show("算术计算：  输出点位编号不是数字,请重新输入");
+                return;
+            }
+
+
+            this.Visible = false;
+        }
+
+        internal void SetParaImage(ExecuteBuffer test)
+        {
+
+
+
+
+
+        }
+
+
+
+        public  bool Check_pal()
+        {
+            if (this.cbb_Inputsource.SelectedIndex == 3)
+            {
+                if (!IsNumber(this.tb_innumber.Text.ToString()))
+                {
+                    MessageBox.Show("算术计算：  输入点位编号1不是数字,请重新输入");
+                    return false;
+                }
+            }
+            if (this.cbb_inputsource2.SelectedIndex == 1)
+            {
+
+
+            }
+            else
+            {
+                if (!IsNumber(this.txt_number2.Text.ToString()))
+                {
+                    MessageBox.Show("算术计算：  输入点位编号2不是数字,请重新输入");
+                    return false;
+                }
+            
+            }
+
+            if (!IsNumber(this.tb_outnumber.Text.ToString()))
+            {
+                MessageBox.Show("算术计算：  输出点位编号不是数字,请重新输入");
+                return false;
+            }
+            return true;
+        
+        }
+
+
+
+        private void cbb_Inputsource_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            if (this.cbb_Inputsource.SelectedIndex == 3)
+                this.panel_inno1.Visible = true;
+            else
+                this.panel_inno1.Visible = false;
+
+            
+        }
+
+
+
+
+
+
+
+
+
+    }
+}

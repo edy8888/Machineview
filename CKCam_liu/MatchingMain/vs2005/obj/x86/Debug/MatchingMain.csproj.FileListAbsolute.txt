@@ -1,0 +1,46 @@
+C:\Users\Aragorn\Desktop\Ho examples\codelets\applications\Matching\vs2005\obj\x86\Debug\MatchingMain.csprojResolveAssemblyReference.cache
+C:\Users\Aragorn\Desktop\Ho examples\codelets\applications\Matching\vs2005\obj\x86\Debug\MatchingMain.MatchingForm.resources
+C:\Users\Aragorn\Desktop\Ho examples\codelets\applications\Matching\vs2005\obj\x86\Debug\MatchingMain.csproj.GenerateResource.Cache
+C:\Users\Aragorn\Desktop\Ho examples\codelets\applications\Matching\vs2005\bin\x86\Debug\MatchingMain.exe
+C:\Users\Aragorn\Desktop\Ho examples\codelets\applications\Matching\vs2005\bin\x86\Debug\MatchingMain.pdb
+C:\Users\Aragorn\Desktop\Ho examples\codelets\applications\Matching\vs2005\bin\x86\Debug\halcondotnet.dll
+C:\Users\Aragorn\Desktop\Ho examples\codelets\applications\Matching\vs2005\bin\x86\Debug\MatchingModule.dll
+C:\Users\Aragorn\Desktop\Ho examples\codelets\applications\Matching\vs2005\bin\x86\Debug\ViewROI.dll
+C:\Users\Aragorn\Desktop\Ho examples\codelets\applications\Matching\vs2005\bin\x86\Debug\MatchingModule.pdb
+C:\Users\Aragorn\Desktop\Ho examples\codelets\applications\Matching\vs2005\bin\x86\Debug\ViewROI.pdb
+C:\Users\Aragorn\Desktop\Ho examples\codelets\applications\Matching\vs2005\bin\x86\Debug\halcondotnet.xml
+C:\Users\Aragorn\Desktop\Ho examples\codelets\applications\Matching\vs2005\obj\x86\Debug\MatchingMain.exe
+C:\Users\Aragorn\Desktop\Ho examples\codelets\applications\Matching\vs2005\obj\x86\Debug\MatchingMain.pdb
+C:\Users\Aragorn\Desktop\新建文件夹\Matching\vs2005\obj\x86\Debug\MatchingMain.exe
+C:\Users\Aragorn\Desktop\新建文件夹\Matching\vs2005\obj\x86\Debug\MatchingMain.pdb
+C:\Users\Aragorn\Desktop\patternMatch\MatchingMain\vs2005\obj\x86\Debug\MatchingMain.exe
+C:\Users\Aragorn\Desktop\patternMatch\MatchingMain\vs2005\obj\x86\Debug\MatchingMain.pdb
+C:\Users\Aragorn\Desktop\patternMatch\MatchingMain\vs2005\bin\x86\Debug\MatchingMain.exe
+C:\Users\Aragorn\Desktop\patternMatch\MatchingMain\vs2005\bin\x86\Debug\MatchingMain.pdb
+C:\Users\Aragorn\Desktop\patternMatch\MatchingMain\vs2005\bin\x86\Debug\halcondotnet.dll
+C:\Users\Aragorn\Desktop\patternMatch\MatchingMain\vs2005\bin\x86\Debug\MatchingModule.dll
+C:\Users\Aragorn\Desktop\patternMatch\MatchingMain\vs2005\bin\x86\Debug\ViewROI.dll
+C:\Users\Aragorn\Desktop\patternMatch\MatchingMain\vs2005\bin\x86\Debug\MatchingModule.pdb
+C:\Users\Aragorn\Desktop\patternMatch\MatchingMain\vs2005\bin\x86\Debug\ViewROI.pdb
+C:\Users\Aragorn\Desktop\patternMatch\MatchingMain\vs2005\bin\x86\Debug\halcondotnet.xml
+C:\Users\Aragorn\Desktop\patternMatch\MatchingMain\vs2005\obj\x86\Debug\MatchingMain.csprojResolveAssemblyReference.cache
+C:\Users\Aragorn\Desktop\patternMatch\MatchingMain\vs2005\obj\x86\Debug\MatchingMain.csproj.GenerateResource.Cache
+C:\Users\Aragorn\Desktop\patternMatch\MatchingMain\vs2005\obj\x86\Debug\MatchingMain.HYvision.resources
+C:\Users\Aragorn\Desktop\视觉模块立项案\HYVisionPart\MatchingMain\vs2005\bin\x86\Debug\MatchingMain.exe
+C:\Users\Aragorn\Desktop\视觉模块立项案\HYVisionPart\MatchingMain\vs2005\bin\x86\Debug\MatchingMain.pdb
+C:\Users\Aragorn\Desktop\视觉模块立项案\HYVisionPart\MatchingMain\vs2005\bin\x86\Debug\halcondotnet.dll
+C:\Users\Aragorn\Desktop\视觉模块立项案\HYVisionPart\MatchingMain\vs2005\bin\x86\Debug\MatchingModule.dll
+C:\Users\Aragorn\Desktop\视觉模块立项案\HYVisionPart\MatchingMain\vs2005\bin\x86\Debug\ViewROI.dll
+C:\Users\Aragorn\Desktop\视觉模块立项案\HYVisionPart\MatchingMain\vs2005\bin\x86\Debug\MatchingModule.pdb
+C:\Users\Aragorn\Desktop\视觉模块立项案\HYVisionPart\MatchingMain\vs2005\bin\x86\Debug\ViewROI.pdb
+C:\Users\Aragorn\Desktop\视觉模块立项案\HYVisionPart\MatchingMain\vs2005\bin\x86\Debug\halcondotnet.xml
+C:\Users\Aragorn\Desktop\视觉模块立项案\HYVisionPart\MatchingMain\vs2005\obj\x86\Debug\MatchingMain.csprojResolveAssemblyReference.cache
+C:\Users\Aragorn\Desktop\视觉模块立项案\HYVisionPart\MatchingMain\vs2005\obj\x86\Debug\MatchingMain.csproj.GenerateResource.Cache
+C:\Users\Aragorn\Desktop\视觉模块立项案\HYVisionPart\MatchingMain\vs2005\obj\x86\Debug\MatchingMain.exe
+C:\Users\Aragorn\Desktop\视觉模块立项案\HYVisionPart\MatchingMain\vs2005\obj\x86\Debug\MatchingMain.pdb
+C:\Users\Aragorn\Desktop\视觉模块立项案\HYVisionPart\MatchingMain\vs2005\obj\x86\Debug\HYvision.MatchingForm.resources
+E:\CKCam\CKCam_liu\CKCam_liu\MatchingMain\vs2005\obj\x86\Debug\MatchingMain.csprojResolveAssemblyReference.cache
+E:\CKCam\CKCam_liu\CKCam_liu\MatchingMain\vs2005\obj\x86\Debug\HYvision.MatchingForm.resources
+E:\CKCam\CKCam_liu\CKCam_liu\MatchingMain\vs2005\obj\x86\Debug\MatchingMain.csproj.GenerateResource.Cache
+E:\CKCam\CKCam_liu\CKCam_liu\MatchingMain\vs2005\obj\x86\Debug\MatchingMain.exe
+E:\CKCam\CKCam_liu\CKCam_liu\MatchingMain\vs2005\obj\x86\Debug\MatchingMain.pdb
