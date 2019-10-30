@@ -1,0 +1,86 @@
+D:\Desktop\Halcon examples\codelets\base\ViewROI\vs2005\bin\Debug\ViewROI.dll
+D:\Desktop\Halcon examples\codelets\base\ViewROI\vs2005\bin\Debug\ViewROI.pdb
+D:\Desktop\Halcon examples\codelets\base\ViewROI\vs2005\bin\Debug\halcondotnet.dll
+D:\Desktop\Halcon examples\codelets\base\ViewROI\vs2005\bin\Debug\halcondotnet.xml
+D:\Desktop\Halcon examples\codelets\base\ViewROI\vs2005\obj\Debug\ViewROI.csprojResolveAssemblyReference.cache
+D:\Desktop\Halcon examples\codelets\base\ViewROI\vs2005\obj\Debug\ViewROI.dll
+D:\Desktop\Halcon examples\codelets\base\ViewROI\vs2005\obj\Debug\ViewROI.pdb
+D:\Desktop\C sharp test\ViewROI\vs2005\bin\Debug\ViewROI.dll
+D:\Desktop\C sharp test\ViewROI\vs2005\bin\Debug\ViewROI.pdb
+D:\Desktop\C sharp test\ViewROI\vs2005\bin\Debug\halcondotnet.dll
+D:\Desktop\C sharp test\ViewROI\vs2005\bin\Debug\halcondotnet.xml
+D:\Desktop\C sharp test\ViewROI\vs2005\obj\Debug\ViewROI.csprojResolveAssemblyReference.cache
+D:\Desktop\C sharp test\ViewROI\vs2005\obj\Debug\ViewROI.dll
+D:\Desktop\C sharp test\ViewROI\vs2005\obj\Debug\ViewROI.pdb
+E:\华奕\软件\CKCam_liu\CKCam_liu\ViewROI\vs2005\bin\Debug\ViewROI.dll
+E:\华奕\软件\CKCam_liu\CKCam_liu\ViewROI\vs2005\bin\Debug\ViewROI.pdb
+E:\华奕\软件\CKCam_liu\CKCam_liu\ViewROI\vs2005\bin\Debug\halcondotnet.dll
+E:\华奕\软件\CKCam_liu\CKCam_liu\ViewROI\vs2005\bin\Debug\halcondotnet.xml
+E:\华奕\软件\CKCam_liu\CKCam_liu\ViewROI\vs2005\obj\Debug\ViewROI.csproj.CoreCompileInputs.cache
+E:\华奕\软件\CKCam_liu\CKCam_liu\ViewROI\vs2005\obj\Debug\ViewROI.csproj.CopyComplete
+E:\华奕\软件\CKCam_liu\CKCam_liu\ViewROI\vs2005\obj\Debug\ViewROI.dll
+E:\华奕\软件\CKCam_liu\CKCam_liu\ViewROI\vs2005\obj\Debug\ViewROI.pdb
+E:\CKCam\CKCam_liu\CKCam_liu\ViewROI\vs2005\bin\Debug\ViewROI.dll
+E:\CKCam\CKCam_liu\CKCam_liu\ViewROI\vs2005\bin\Debug\ViewROI.pdb
+E:\CKCam\CKCam_liu\CKCam_liu\ViewROI\vs2005\bin\Debug\halcondotnet.dll
+E:\CKCam\CKCam_liu\CKCam_liu\ViewROI\vs2005\bin\Debug\halcondotnet.xml
+E:\CKCam\CKCam_liu\CKCam_liu\ViewROI\vs2005\obj\Debug\ViewROI.dll
+E:\CKCam\CKCam_liu\CKCam_liu\ViewROI\vs2005\obj\Debug\ViewROI.pdb
+E:\CKCam\CKCam_liu\CKCam_liu\ViewROI\vs2005\obj\Debug\ViewROI.csprojResolveAssemblyReference.cache
+E:\华奕\软件\20190529\CKCam_liu\ViewROI\vs2005\bin\Debug\ViewROI.dll
+E:\华奕\软件\20190529\CKCam_liu\ViewROI\vs2005\bin\Debug\ViewROI.pdb
+E:\华奕\软件\20190529\CKCam_liu\ViewROI\vs2005\bin\Debug\halcondotnet.dll
+E:\华奕\软件\20190529\CKCam_liu\ViewROI\vs2005\bin\Debug\halcondotnet.xml
+E:\华奕\软件\20190529\CKCam_liu\ViewROI\vs2005\obj\Debug\ViewROI.csproj.CoreCompileInputs.cache
+E:\华奕\软件\20190529\CKCam_liu\ViewROI\vs2005\obj\Debug\ViewROI.csproj.CopyComplete
+E:\华奕\软件\20190529\CKCam_liu\ViewROI\vs2005\obj\Debug\ViewROI.dll
+E:\华奕\软件\20190529\CKCam_liu\ViewROI\vs2005\obj\Debug\ViewROI.pdb
+E:\华奕\CKCam_liu\ViewROI\vs2005\bin\Debug\ViewROI.dll
+E:\华奕\CKCam_liu\ViewROI\vs2005\bin\Debug\ViewROI.pdb
+E:\华奕\CKCam_liu\ViewROI\vs2005\bin\Debug\halcondotnet.dll
+E:\华奕\CKCam_liu\ViewROI\vs2005\bin\Debug\halcondotnet.xml
+E:\华奕\CKCam_liu\ViewROI\vs2005\obj\Debug\ViewROI.csproj.CoreCompileInputs.cache
+E:\华奕\CKCam_liu\ViewROI\vs2005\obj\Debug\ViewROI.csproj.CopyComplete
+E:\华奕\CKCam_liu\ViewROI\vs2005\obj\Debug\ViewROI.dll
+E:\华奕\CKCam_liu\ViewROI\vs2005\obj\Debug\ViewROI.pdb
+E:\CKCam\CKCam_liu_20190606\ViewROI\vs2005\bin\Debug\ViewROI.dll
+E:\CKCam\CKCam_liu_20190606\ViewROI\vs2005\bin\Debug\ViewROI.pdb
+E:\CKCam\CKCam_liu_20190606\ViewROI\vs2005\bin\Debug\halcondotnet.dll
+E:\CKCam\CKCam_liu_20190606\ViewROI\vs2005\bin\Debug\halcondotnet.xml
+E:\CKCam\CKCam_liu_20190606\ViewROI\vs2005\obj\Debug\ViewROI.dll
+E:\CKCam\CKCam_liu_20190606\ViewROI\vs2005\obj\Debug\ViewROI.pdb
+E:\华奕\CKCam_liu\ViewROI\vs2005\obj\Debug\ViewROI.csprojAssemblyReference.cache
+E:\CKCam\CKCam_liu_20190610\ViewROI\vs2005\bin\Debug\ViewROI.dll
+E:\CKCam\CKCam_liu_20190610\ViewROI\vs2005\bin\Debug\ViewROI.pdb
+E:\CKCam\CKCam_liu_20190610\ViewROI\vs2005\bin\Debug\halcondotnet.dll
+E:\CKCam\CKCam_liu_20190610\ViewROI\vs2005\bin\Debug\halcondotnet.xml
+E:\CKCam\CKCam_liu_20190610\ViewROI\vs2005\obj\Debug\ViewROI.dll
+E:\CKCam\CKCam_liu_20190610\ViewROI\vs2005\obj\Debug\ViewROI.pdb
+E:\CKCam\程序 更新\CKCam_liu\ViewROI\vs2005\bin\Debug\ViewROI.dll
+E:\CKCam\程序 更新\CKCam_liu\ViewROI\vs2005\bin\Debug\ViewROI.pdb
+E:\CKCam\程序 更新\CKCam_liu\ViewROI\vs2005\bin\Debug\halcondotnet.dll
+E:\CKCam\程序 更新\CKCam_liu\ViewROI\vs2005\bin\Debug\halcondotnet.xml
+E:\CKCam\程序 更新\CKCam_liu\ViewROI\vs2005\obj\Debug\ViewROI.csprojResolveAssemblyReference.cache
+E:\CKCam\程序 更新\CKCam_liu\ViewROI\vs2005\obj\Debug\ViewROI.dll
+E:\CKCam\程序 更新\CKCam_liu\ViewROI\vs2005\obj\Debug\ViewROI.pdb
+E:\CKCam\CKCam_liu_20190918\ViewROI\vs2005\bin\Debug\ViewROI.dll
+E:\CKCam\CKCam_liu_20190918\ViewROI\vs2005\bin\Debug\ViewROI.pdb
+E:\CKCam\CKCam_liu_20190918\ViewROI\vs2005\bin\Debug\halcondotnet.dll
+E:\CKCam\CKCam_liu_20190918\ViewROI\vs2005\bin\Debug\halcondotnet.xml
+E:\CKCam\CKCam_liu_20190918\ViewROI\vs2005\obj\Debug\ViewROI.dll
+E:\CKCam\CKCam_liu_20190918\ViewROI\vs2005\obj\Debug\ViewROI.pdb
+E:\CKCam\CKCam_liu\ViewROI\vs2005\bin\Debug\ViewROI.dll
+E:\CKCam\CKCam_liu\ViewROI\vs2005\bin\Debug\ViewROI.pdb
+E:\CKCam\CKCam_liu\ViewROI\vs2005\bin\Debug\halcondotnet.dll
+E:\CKCam\CKCam_liu\ViewROI\vs2005\bin\Debug\halcondotnet.xml
+E:\CKCam\CKCam_liu\ViewROI\vs2005\obj\Debug\ViewROI.dll
+E:\CKCam\CKCam_liu\ViewROI\vs2005\obj\Debug\ViewROI.pdb
+F:\CKCam_liu20191008\CKCam_liu\ViewROI\vs2005\bin\Debug\ViewROI.dll
+F:\CKCam_liu20191008\CKCam_liu\ViewROI\vs2005\bin\Debug\ViewROI.pdb
+F:\CKCam_liu20191008\CKCam_liu\ViewROI\vs2005\bin\Debug\halcondotnet.dll
+F:\CKCam_liu20191008\CKCam_liu\ViewROI\vs2005\bin\Debug\halcondotnet.xml
+F:\CKCam_liu20191008\CKCam_liu\ViewROI\vs2005\obj\Debug\ViewROI.csproj.CoreCompileInputs.cache
+F:\CKCam_liu20191008\CKCam_liu\ViewROI\vs2005\obj\Debug\ViewROI.csproj.CopyComplete
+F:\CKCam_liu20191008\CKCam_liu\ViewROI\vs2005\obj\Debug\ViewROI.dll
+F:\CKCam_liu20191008\CKCam_liu\ViewROI\vs2005\obj\Debug\ViewROI.pdb
+E:\CKCam\CKCam_liu\ViewROI\vs2005\obj\Debug\ViewROI.csprojResolveAssemblyReference.cache

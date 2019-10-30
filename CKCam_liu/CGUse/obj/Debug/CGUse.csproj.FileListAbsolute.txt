@@ -1,0 +1,354 @@
+E:\CKCam\CKCam _20190412\CGUse\bin\Debug\CGUse.exe.config
+E:\CKCam\CKCam _20190412\CGUse\obj\Debug\CGUse.exe
+E:\CKCam\CKCam _20190412\CGUse\obj\Debug\CGUse.pdb
+E:\CKCam\CKCam _20190412\CGUse\bin\Debug\CGUse.exe
+E:\CKCam\CKCam _20190412\CGUse\bin\Debug\CGUse.pdb
+E:\CKCam\CKCam _20190412\CGUse\bin\Debug\PMACam.dll
+E:\CKCam\CKCam _20190412\CGUse\bin\Debug\PMACam.pdb
+E:\CKCam\CKCam _20190412\CGUse\obj\Debug\CGUse.csprojResolveAssemblyReference.cache
+E:\CKCam\CKCam _20190412\CGUse\obj\Debug\CGUse.Form1.resources
+E:\CKCam\CKCam _20190412\CGUse\obj\Debug\CGUse.Properties.Resources.resources
+E:\CKCam\CKCam _20190412\CGUse\obj\Debug\CGUse.csproj.GenerateResource.Cache
+E:\CKCam\CKCam\CGUse\bin\Debug\CGUse.exe.config
+E:\CKCam\CKCam\CGUse\bin\Debug\CGUse.exe
+E:\CKCam\CKCam\CGUse\bin\Debug\CGUse.pdb
+E:\CKCam\CKCam\CGUse\bin\Debug\PMACam.dll
+E:\CKCam\CKCam\CGUse\bin\Debug\PMACam.pdb
+E:\CKCam\CKCam\CGUse\obj\Debug\CGUse.csprojResolveAssemblyReference.cache
+E:\CKCam\CKCam\CGUse\obj\Debug\CGUse.Form1.resources
+E:\CKCam\CKCam\CGUse\obj\Debug\CGUse.Properties.Resources.resources
+E:\CKCam\CKCam\CGUse\obj\Debug\CGUse.csproj.GenerateResource.Cache
+E:\CKCam\CKCam\CGUse\obj\Debug\CGUse.exe
+E:\CKCam\CKCam\CGUse\obj\Debug\CGUse.pdb
+E:\CKCam\CKCam_0422\CKCam_0422\CGUse\bin\Debug\CGUse.exe.config
+E:\CKCam\CKCam_0422\CKCam_0422\CGUse\bin\Debug\CGUse.exe
+E:\CKCam\CKCam_0422\CKCam_0422\CGUse\bin\Debug\CGUse.pdb
+E:\CKCam\CKCam_0422\CKCam_0422\CGUse\bin\Debug\PMACam.dll
+E:\CKCam\CKCam_0422\CKCam_0422\CGUse\bin\Debug\PMACam.pdb
+E:\CKCam\CKCam_0422\CKCam_0422\CGUse\obj\Debug\CGUse.csprojResolveAssemblyReference.cache
+E:\CKCam\CKCam_0422\CKCam_0422\CGUse\obj\Debug\CGUse.Form1.resources
+E:\CKCam\CKCam_0422\CKCam_0422\CGUse\obj\Debug\CGUse.Properties.Resources.resources
+E:\CKCam\CKCam_0422\CKCam_0422\CGUse\obj\Debug\CGUse.csproj.GenerateResource.Cache
+E:\CKCam\CKCam_0422\CKCam_0422\CGUse\obj\Debug\CGUse.exe
+E:\CKCam\CKCam_0422\CKCam_0422\CGUse\obj\Debug\CGUse.pdb
+E:\CKCam\CKCam_liu20190508\CKCam_liu\CGUse\bin\Debug\CGUse.exe.config
+E:\CKCam\CKCam_liu20190508\CKCam_liu\CGUse\obj\Debug\CGUse.exe
+E:\CKCam\CKCam_liu20190508\CKCam_liu\CGUse\obj\Debug\CGUse.pdb
+E:\CKCam\CKCam_liu20190508\CKCam_liu\CGUse\bin\Debug\CGUse.exe
+E:\CKCam\CKCam_liu20190508\CKCam_liu\CGUse\bin\Debug\CGUse.pdb
+E:\CKCam\CKCam_liu20190508\CKCam_liu\CGUse\bin\Debug\PMACam.dll
+E:\CKCam\CKCam_liu20190508\CKCam_liu\CGUse\bin\Debug\MvCameraControl.Net.dll
+E:\CKCam\CKCam_liu20190508\CKCam_liu\CGUse\bin\Debug\PMACam.pdb
+E:\CKCam\CKCam_liu20190508\CKCam_liu\CGUse\obj\Debug\CGUse.csprojResolveAssemblyReference.cache
+E:\CKCam\CKCam_liu20190508\CKCam_liu\CGUse\obj\Debug\CGUse.Form1.resources
+E:\CKCam\CKCam_liu20190508\CKCam_liu\CGUse\obj\Debug\CGUse.Properties.Resources.resources
+E:\CKCam\CKCam_liu20190508\CKCam_liu\CGUse\obj\Debug\CGUse.csproj.GenerateResource.Cache
+E:\CKCam\CKCam_liu_ok\CKCam_liu\CGUse\bin\Debug\CGUse.exe.config
+E:\CKCam\CKCam_liu_ok\CKCam_liu\CGUse\obj\Debug\CGUse.exe
+E:\CKCam\CKCam_liu_ok\CKCam_liu\CGUse\obj\Debug\CGUse.pdb
+E:\CKCam\CKCam_liu_ok\CKCam_liu\CGUse\bin\Debug\CGUse.exe
+E:\CKCam\CKCam_liu_ok\CKCam_liu\CGUse\bin\Debug\CGUse.pdb
+E:\CKCam\CKCam_liu_ok\CKCam_liu\CGUse\bin\Debug\PMACam.dll
+E:\CKCam\CKCam_liu_ok\CKCam_liu\CGUse\bin\Debug\MvCameraControl.Net.dll
+E:\CKCam\CKCam_liu_ok\CKCam_liu\CGUse\bin\Debug\PMACam.pdb
+E:\CKCam\CKCam_liu_ok\CKCam_liu\CGUse\obj\Debug\CGUse.csprojResolveAssemblyReference.cache
+E:\CKCam\CKCam_liu_ok\CKCam_liu\CGUse\obj\Debug\CGUse.Form1.resources
+E:\CKCam\CKCam_liu_ok\CKCam_liu\CGUse\obj\Debug\CGUse.Properties.Resources.resources
+E:\CKCam\CKCam_liu_ok\CKCam_liu\CGUse\obj\Debug\CGUse.csproj.GenerateResource.Cache
+C:\Users\xiaoxiao\Desktop\CKCam_liu\CKCam_liu\CGUse\bin\Debug\CGUse.exe.config
+C:\Users\xiaoxiao\Desktop\CKCam_liu\CKCam_liu\CGUse\bin\Debug\CGUse.exe
+C:\Users\xiaoxiao\Desktop\CKCam_liu\CKCam_liu\CGUse\bin\Debug\CGUse.pdb
+C:\Users\xiaoxiao\Desktop\CKCam_liu\CKCam_liu\CGUse\bin\Debug\Cognex.VisionPro.Display.Controls.dll
+C:\Users\xiaoxiao\Desktop\CKCam_liu\CKCam_liu\CGUse\bin\Debug\Cognex.VisionPro.dll
+C:\Users\xiaoxiao\Desktop\CKCam_liu\CKCam_liu\CGUse\bin\Debug\Cognex.VisionPro.FGGigE.dll
+C:\Users\xiaoxiao\Desktop\CKCam_liu\CKCam_liu\CGUse\bin\Debug\Cognex.VisionPro.ImageFile.Controls.dll
+C:\Users\xiaoxiao\Desktop\CKCam_liu\CKCam_liu\CGUse\bin\Debug\Cognex.VisionPro.ImageFile.dll
+C:\Users\xiaoxiao\Desktop\CKCam_liu\CKCam_liu\CGUse\bin\Debug\PMACam.dll
+C:\Users\xiaoxiao\Desktop\CKCam_liu\CKCam_liu\CGUse\bin\Debug\Basler.Pylon.dll
+C:\Users\xiaoxiao\Desktop\CKCam_liu\CKCam_liu\CGUse\bin\Debug\Cognex.VisionPro.Core.dll
+C:\Users\xiaoxiao\Desktop\CKCam_liu\CKCam_liu\CGUse\bin\Debug\MvCameraControl.Net.dll
+C:\Users\xiaoxiao\Desktop\CKCam_liu\CKCam_liu\CGUse\bin\Debug\Cognex.VisionPro.CorePlus.dll
+C:\Users\xiaoxiao\Desktop\CKCam_liu\CKCam_liu\CGUse\bin\Debug\Cognex.VisionPro.Interop.Core.dll
+C:\Users\xiaoxiao\Desktop\CKCam_liu\CKCam_liu\CGUse\bin\Debug\stdole.dll
+C:\Users\xiaoxiao\Desktop\CKCam_liu\CKCam_liu\CGUse\bin\Debug\Cognex.VisionPro.Controls.dll
+C:\Users\xiaoxiao\Desktop\CKCam_liu\CKCam_liu\CGUse\bin\Debug\Cognex.VisionPro3D.Core.dll
+C:\Users\xiaoxiao\Desktop\CKCam_liu\CKCam_liu\CGUse\bin\Debug\Cognex.VisionPro.ImageProcessing.dll
+C:\Users\xiaoxiao\Desktop\CKCam_liu\CKCam_liu\CGUse\bin\Debug\PMACam.pdb
+C:\Users\xiaoxiao\Desktop\CKCam_liu\CKCam_liu\CGUse\bin\Debug\Cognex.VisionPro.xml
+C:\Users\xiaoxiao\Desktop\CKCam_liu\CKCam_liu\CGUse\bin\Debug\Cognex.VisionPro.Display.Controls.xml
+C:\Users\xiaoxiao\Desktop\CKCam_liu\CKCam_liu\CGUse\bin\Debug\Cognex.VisionPro.FGGigE.xml
+C:\Users\xiaoxiao\Desktop\CKCam_liu\CKCam_liu\CGUse\bin\Debug\Cognex.VisionPro.ImageFile.xml
+C:\Users\xiaoxiao\Desktop\CKCam_liu\CKCam_liu\CGUse\bin\Debug\Cognex.VisionPro.Core.xml
+C:\Users\xiaoxiao\Desktop\CKCam_liu\CKCam_liu\CGUse\bin\Debug\Cognex.VisionPro.CorePlus.xml
+C:\Users\xiaoxiao\Desktop\CKCam_liu\CKCam_liu\CGUse\bin\Debug\Cognex.VisionPro3D.Core.xml
+C:\Users\xiaoxiao\Desktop\CKCam_liu\CKCam_liu\CGUse\bin\Debug\Cognex.VisionPro.ImageProcessing.xml
+C:\Users\xiaoxiao\Desktop\CKCam_liu\CKCam_liu\CGUse\obj\Debug\CGUse.csprojAssemblyReference.cache
+C:\Users\xiaoxiao\Desktop\CKCam_liu\CKCam_liu\CGUse\obj\Debug\CGUse.Form1.resources
+C:\Users\xiaoxiao\Desktop\CKCam_liu\CKCam_liu\CGUse\obj\Debug\CGUse.Properties.Resources.resources
+C:\Users\xiaoxiao\Desktop\CKCam_liu\CKCam_liu\CGUse\obj\Debug\CGUse.csproj.GenerateResource.cache
+C:\Users\xiaoxiao\Desktop\CKCam_liu\CKCam_liu\CGUse\obj\Debug\CGUse.csproj.CoreCompileInputs.cache
+C:\Users\xiaoxiao\Desktop\CKCam_liu\CKCam_liu\CGUse\obj\Debug\CGUse.csproj.CopyComplete
+C:\Users\xiaoxiao\Desktop\CKCam_liu\CKCam_liu\CGUse\obj\Debug\CGUse.exe
+C:\Users\xiaoxiao\Desktop\CKCam_liu\CKCam_liu\CGUse\obj\Debug\CGUse.pdb
+E:\CKCam\CKCam_liu\CKCam_liu\CKCam_liu\CGUse\bin\Debug\CGUse.exe.config
+E:\CKCam\CKCam_liu\CKCam_liu\CKCam_liu\CGUse\obj\Debug\CGUse.exe
+E:\CKCam\CKCam_liu\CKCam_liu\CKCam_liu\CGUse\obj\Debug\CGUse.pdb
+E:\CKCam\CKCam_liu\CKCam_liu\CKCam_liu\CGUse\bin\Debug\CGUse.exe
+E:\CKCam\CKCam_liu\CKCam_liu\CKCam_liu\CGUse\bin\Debug\CGUse.pdb
+E:\CKCam\CKCam_liu\CKCam_liu\CKCam_liu\CGUse\bin\Debug\PMACam.dll
+E:\CKCam\CKCam_liu\CKCam_liu\CKCam_liu\CGUse\bin\Debug\MvCameraControl.Net.dll
+E:\CKCam\CKCam_liu\CKCam_liu\CKCam_liu\CGUse\bin\Debug\PMACam.pdb
+E:\CKCam\CKCam_liu\CKCam_liu\CKCam_liu\CGUse\obj\Debug\CGUse.Form1.resources
+E:\CKCam\CKCam_liu\CKCam_liu\CKCam_liu\CGUse\obj\Debug\CGUse.Properties.Resources.resources
+E:\CKCam\CKCam_liu\CKCam_liu\CKCam_liu\CGUse\obj\Debug\CGUse.csproj.GenerateResource.Cache
+E:\CKCam\CKCam_liu\CKCam_liu\CKCam_liu\CGUse\obj\Debug\CGUse.csprojResolveAssemblyReference.cache
+E:\CKCam\CKCam_liu_fuzhi\CGUse\obj\Debug\CGUse.Form1.resources
+E:\CKCam\CKCam_liu_fuzhi\CGUse\obj\Debug\CGUse.Properties.Resources.resources
+E:\CKCam\CKCam_liu_fuzhi\CGUse\obj\Debug\CGUse.csproj.GenerateResource.Cache
+E:\CKCam\CKCam_liu_fuzhi\CGUse\bin\Debug\CGUse.exe.config
+E:\CKCam\CKCam_liu_fuzhi\CGUse\bin\Debug\CGUse.exe
+E:\CKCam\CKCam_liu_fuzhi\CGUse\bin\Debug\CGUse.pdb
+E:\CKCam\CKCam_liu_fuzhi\CGUse\bin\Debug\PMACam.dll
+E:\CKCam\CKCam_liu_fuzhi\CGUse\bin\Debug\halcondotnet.dll
+E:\CKCam\CKCam_liu_fuzhi\CGUse\bin\Debug\MvCameraControl.Net.dll
+E:\CKCam\CKCam_liu_fuzhi\CGUse\bin\Debug\PMACam.pdb
+E:\CKCam\CKCam_liu_fuzhi\CGUse\obj\Debug\CGUse.csprojResolveAssemblyReference.cache
+E:\CKCam\CKCam_liu_fuzhi\CGUse\obj\Debug\CGUse.exe
+E:\CKCam\CKCam_liu_fuzhi\CGUse\obj\Debug\CGUse.pdb
+E:\华奕\软件\CKCam_liu\CKCam_liu\CGUse\bin\Debug\CGUse.exe.config
+E:\华奕\软件\CKCam_liu\CKCam_liu\CGUse\bin\Debug\CGUse.exe
+E:\华奕\软件\CKCam_liu\CKCam_liu\CGUse\bin\Debug\CGUse.pdb
+E:\华奕\软件\CKCam_liu\CKCam_liu\CGUse\bin\Debug\PMACam.dll
+E:\华奕\软件\CKCam_liu\CKCam_liu\CGUse\bin\Debug\Basler.Pylon.dll
+E:\华奕\软件\CKCam_liu\CKCam_liu\CGUse\bin\Debug\halcondotnet.dll
+E:\华奕\软件\CKCam_liu\CKCam_liu\CGUse\bin\Debug\Cognex.VisionPro.Core.dll
+E:\华奕\软件\CKCam_liu\CKCam_liu\CGUse\bin\Debug\MvCameraControl.Net.dll
+E:\华奕\软件\CKCam_liu\CKCam_liu\CGUse\bin\Debug\HWindow_Tool.dll
+E:\华奕\软件\CKCam_liu\CKCam_liu\CGUse\bin\Debug\ViewROI.dll
+E:\华奕\软件\CKCam_liu\CKCam_liu\CGUse\bin\Debug\Cognex.VisionPro.dll
+E:\华奕\软件\CKCam_liu\CKCam_liu\CGUse\bin\Debug\Cognex.VisionPro.Interop.Core.dll
+E:\华奕\软件\CKCam_liu\CKCam_liu\CGUse\bin\Debug\stdole.dll
+E:\华奕\软件\CKCam_liu\CKCam_liu\CGUse\bin\Debug\PMACam.pdb
+E:\华奕\软件\CKCam_liu\CKCam_liu\CGUse\bin\Debug\Cognex.VisionPro.Core.xml
+E:\华奕\软件\CKCam_liu\CKCam_liu\CGUse\bin\Debug\ViewROI.pdb
+E:\华奕\软件\CKCam_liu\CKCam_liu\CGUse\bin\Debug\Cognex.VisionPro.xml
+E:\华奕\软件\CKCam_liu\CKCam_liu\CGUse\obj\Debug\CGUse.csprojAssemblyReference.cache
+E:\华奕\软件\CKCam_liu\CKCam_liu\CGUse\obj\Debug\CGUse.Form1.resources
+E:\华奕\软件\CKCam_liu\CKCam_liu\CGUse\obj\Debug\CGUse.Properties.Resources.resources
+E:\华奕\软件\CKCam_liu\CKCam_liu\CGUse\obj\Debug\CGUse.csproj.GenerateResource.cache
+E:\华奕\软件\CKCam_liu\CKCam_liu\CGUse\obj\Debug\CGUse.csproj.CoreCompileInputs.cache
+E:\华奕\软件\CKCam_liu\CKCam_liu\CGUse\obj\Debug\CGUse.csproj.CopyComplete
+E:\华奕\软件\CKCam_liu\CKCam_liu\CGUse\obj\Debug\CGUse.exe
+E:\华奕\软件\CKCam_liu\CKCam_liu\CGUse\obj\Debug\CGUse.pdb
+E:\CKCam\CKCam_liu\CKCam_liu\CGUse\bin\Debug\CGUse.exe.config
+E:\CKCam\CKCam_liu\CKCam_liu\CGUse\bin\Debug\CGUse.exe
+E:\CKCam\CKCam_liu\CKCam_liu\CGUse\bin\Debug\CGUse.pdb
+E:\CKCam\CKCam_liu\CKCam_liu\CGUse\bin\Debug\PMACam.dll
+E:\CKCam\CKCam_liu\CKCam_liu\CGUse\bin\Debug\halcondotnet.dll
+E:\CKCam\CKCam_liu\CKCam_liu\CGUse\bin\Debug\ViewROI.dll
+E:\CKCam\CKCam_liu\CKCam_liu\CGUse\bin\Debug\MvCameraControl.Net.dll
+E:\CKCam\CKCam_liu\CKCam_liu\CGUse\bin\Debug\PMACam.pdb
+E:\CKCam\CKCam_liu\CKCam_liu\CGUse\bin\Debug\ViewROI.pdb
+E:\CKCam\CKCam_liu\CKCam_liu\CGUse\obj\Debug\CGUse.csprojResolveAssemblyReference.cache
+E:\CKCam\CKCam_liu\CKCam_liu\CGUse\obj\Debug\CGUse.Form1.resources
+E:\CKCam\CKCam_liu\CKCam_liu\CGUse\obj\Debug\CGUse.Properties.Resources.resources
+E:\CKCam\CKCam_liu\CKCam_liu\CGUse\obj\Debug\CGUse.csproj.GenerateResource.Cache
+E:\CKCam\CKCam_liu\CKCam_liu\CGUse\obj\Debug\CGUse.exe
+E:\CKCam\CKCam_liu\CKCam_liu\CGUse\obj\Debug\CGUse.pdb
+E:\CKCam\CKCam_liu\CKCam_liu\CGUse\bin\Debug\MatchingModule.dll
+E:\CKCam\CKCam_liu\CKCam_liu\CGUse\bin\Debug\MatchingModule.pdb
+G:\20190529\CKCam_liu\CKCam_liu\CGUse\bin\Debug\CGUse.exe.config
+G:\20190529\CKCam_liu\CKCam_liu\CGUse\obj\Debug\CGUse.exe
+G:\20190529\CKCam_liu\CKCam_liu\CGUse\obj\Debug\CGUse.pdb
+G:\20190529\CKCam_liu\CKCam_liu\CGUse\bin\Debug\CGUse.exe
+G:\20190529\CKCam_liu\CKCam_liu\CGUse\bin\Debug\CGUse.pdb
+G:\20190529\CKCam_liu\CKCam_liu\CGUse\bin\Debug\PMACam.dll
+G:\20190529\CKCam_liu\CKCam_liu\CGUse\bin\Debug\halcondotnet.dll
+G:\20190529\CKCam_liu\CKCam_liu\CGUse\bin\Debug\ViewROI.dll
+G:\20190529\CKCam_liu\CKCam_liu\CGUse\bin\Debug\MvCameraControl.Net.dll
+G:\20190529\CKCam_liu\CKCam_liu\CGUse\bin\Debug\MatchingModule.dll
+G:\20190529\CKCam_liu\CKCam_liu\CGUse\bin\Debug\PMACam.pdb
+G:\20190529\CKCam_liu\CKCam_liu\CGUse\bin\Debug\ViewROI.pdb
+G:\20190529\CKCam_liu\CKCam_liu\CGUse\bin\Debug\MatchingModule.pdb
+G:\20190529\CKCam_liu\CKCam_liu\CGUse\obj\Debug\CGUse.csprojResolveAssemblyReference.cache
+G:\20190529\CKCam_liu\CKCam_liu\CGUse\obj\Debug\CGUse.Form1.resources
+G:\20190529\CKCam_liu\CKCam_liu\CGUse\obj\Debug\CGUse.Properties.Resources.resources
+G:\20190529\CKCam_liu\CKCam_liu\CGUse\obj\Debug\CGUse.csproj.GenerateResource.Cache
+E:\华奕\软件\20190529\CKCam_liu\CGUse\bin\Debug\CGUse.exe.config
+E:\华奕\软件\20190529\CKCam_liu\CGUse\bin\Debug\CGUse.exe
+E:\华奕\软件\20190529\CKCam_liu\CGUse\bin\Debug\CGUse.pdb
+E:\华奕\软件\20190529\CKCam_liu\CGUse\bin\Debug\PMACam.dll
+E:\华奕\软件\20190529\CKCam_liu\CGUse\bin\Debug\Basler.Pylon.dll
+E:\华奕\软件\20190529\CKCam_liu\CGUse\bin\Debug\halcondotnet.dll
+E:\华奕\软件\20190529\CKCam_liu\CGUse\bin\Debug\ViewROI.dll
+E:\华奕\软件\20190529\CKCam_liu\CGUse\bin\Debug\MvCameraControl.Net.dll
+E:\华奕\软件\20190529\CKCam_liu\CGUse\bin\Debug\MatchingModule.dll
+E:\华奕\软件\20190529\CKCam_liu\CGUse\bin\Debug\PMACam.pdb
+E:\华奕\软件\20190529\CKCam_liu\CGUse\bin\Debug\ViewROI.pdb
+E:\华奕\软件\20190529\CKCam_liu\CGUse\bin\Debug\MatchingModule.pdb
+E:\华奕\软件\20190529\CKCam_liu\CGUse\obj\Debug\CGUse.csprojAssemblyReference.cache
+E:\华奕\软件\20190529\CKCam_liu\CGUse\obj\Debug\CGUse.Form1.resources
+E:\华奕\软件\20190529\CKCam_liu\CGUse\obj\Debug\CGUse.Properties.Resources.resources
+E:\华奕\软件\20190529\CKCam_liu\CGUse\obj\Debug\CGUse.csproj.GenerateResource.cache
+E:\华奕\软件\20190529\CKCam_liu\CGUse\obj\Debug\CGUse.csproj.CoreCompileInputs.cache
+E:\华奕\软件\20190529\CKCam_liu\CGUse\obj\Debug\CGUse.csproj.CopyComplete
+E:\华奕\软件\20190529\CKCam_liu\CGUse\obj\Debug\CGUse.exe
+E:\华奕\软件\20190529\CKCam_liu\CGUse\obj\Debug\CGUse.pdb
+G:\20190529\CKCam_liu\CGUse\bin\Debug\CGUse.exe.config
+G:\20190529\CKCam_liu\CGUse\obj\Debug\CGUse.exe
+G:\20190529\CKCam_liu\CGUse\obj\Debug\CGUse.pdb
+G:\20190529\CKCam_liu\CGUse\bin\Debug\CGUse.exe
+G:\20190529\CKCam_liu\CGUse\bin\Debug\CGUse.pdb
+G:\20190529\CKCam_liu\CGUse\bin\Debug\PMACam.dll
+G:\20190529\CKCam_liu\CGUse\bin\Debug\halcondotnet.dll
+G:\20190529\CKCam_liu\CGUse\bin\Debug\ViewROI.dll
+G:\20190529\CKCam_liu\CGUse\bin\Debug\MvCameraControl.Net.dll
+G:\20190529\CKCam_liu\CGUse\bin\Debug\MatchingModule.dll
+G:\20190529\CKCam_liu\CGUse\bin\Debug\PMACam.pdb
+G:\20190529\CKCam_liu\CGUse\bin\Debug\ViewROI.pdb
+G:\20190529\CKCam_liu\CGUse\bin\Debug\MatchingModule.pdb
+G:\20190529\CKCam_liu\CGUse\obj\Debug\CGUse.csprojResolveAssemblyReference.cache
+G:\20190529\CKCam_liu\CGUse\obj\Debug\CGUse.Form1.resources
+G:\20190529\CKCam_liu\CGUse\obj\Debug\CGUse.Properties.Resources.resources
+G:\20190529\CKCam_liu\CGUse\obj\Debug\CGUse.csproj.GenerateResource.Cache
+E:\华奕\CKCam_liu\CGUse\bin\Debug\CGUse.exe.config
+E:\华奕\CKCam_liu\CGUse\bin\Debug\CGUse.exe
+E:\华奕\CKCam_liu\CGUse\bin\Debug\CGUse.pdb
+E:\华奕\CKCam_liu\CGUse\bin\Debug\PMACam.dll
+E:\华奕\CKCam_liu\CGUse\bin\Debug\Basler.Pylon.dll
+E:\华奕\CKCam_liu\CGUse\bin\Debug\halcondotnet.dll
+E:\华奕\CKCam_liu\CGUse\bin\Debug\ViewROI.dll
+E:\华奕\CKCam_liu\CGUse\bin\Debug\MvCameraControl.Net.dll
+E:\华奕\CKCam_liu\CGUse\bin\Debug\MatchingModule.dll
+E:\华奕\CKCam_liu\CGUse\bin\Debug\PMACam.pdb
+E:\华奕\CKCam_liu\CGUse\bin\Debug\ViewROI.pdb
+E:\华奕\CKCam_liu\CGUse\bin\Debug\MatchingModule.pdb
+E:\华奕\CKCam_liu\CGUse\obj\Debug\CGUse.csprojAssemblyReference.cache
+E:\华奕\CKCam_liu\CGUse\obj\Debug\CGUse.Form1.resources
+E:\华奕\CKCam_liu\CGUse\obj\Debug\CGUse.Properties.Resources.resources
+E:\华奕\CKCam_liu\CGUse\obj\Debug\CGUse.csproj.GenerateResource.cache
+E:\华奕\CKCam_liu\CGUse\obj\Debug\CGUse.csproj.CoreCompileInputs.cache
+E:\华奕\CKCam_liu\CGUse\obj\Debug\CGUse.csproj.CopyComplete
+E:\华奕\CKCam_liu\CGUse\obj\Debug\CGUse.exe
+E:\华奕\CKCam_liu\CGUse\obj\Debug\CGUse.pdb
+G:\CKCam_liu_new\CGUse\bin\Debug\CGUse.exe.config
+G:\CKCam_liu_new\CGUse\obj\Debug\CGUse.exe
+G:\CKCam_liu_new\CGUse\obj\Debug\CGUse.pdb
+E:\CKCam\CKCam_liu_20190606\CGUse\bin\Debug\CGUse.exe.config
+E:\CKCam\CKCam_liu_20190606\CGUse\obj\Debug\CGUse.exe
+E:\CKCam\CKCam_liu_20190606\CGUse\obj\Debug\CGUse.pdb
+E:\CKCam\CKCam_liu_20190606\CGUse\bin\Debug\CGUse.exe
+E:\CKCam\CKCam_liu_20190606\CGUse\bin\Debug\CGUse.pdb
+E:\CKCam\CKCam_liu_20190606\CGUse\bin\Debug\PMACam.dll
+E:\CKCam\CKCam_liu_20190606\CGUse\bin\Debug\halcondotnet.dll
+E:\CKCam\CKCam_liu_20190606\CGUse\bin\Debug\ViewROI.dll
+E:\CKCam\CKCam_liu_20190606\CGUse\bin\Debug\MvCameraControl.Net.dll
+E:\CKCam\CKCam_liu_20190606\CGUse\bin\Debug\MatchingModule.dll
+E:\CKCam\CKCam_liu_20190606\CGUse\bin\Debug\PMACam.pdb
+E:\CKCam\CKCam_liu_20190606\CGUse\bin\Debug\ViewROI.pdb
+E:\CKCam\CKCam_liu_20190606\CGUse\bin\Debug\MatchingModule.pdb
+E:\CKCam\CKCam_liu_20190606\CGUse\obj\Debug\CGUse.csprojResolveAssemblyReference.cache
+E:\CKCam\CKCam_liu_20190606\CGUse\obj\Debug\CGUse.Form1.resources
+E:\CKCam\CKCam_liu_20190606\CGUse\obj\Debug\CGUse.Properties.Resources.resources
+E:\CKCam\CKCam_liu_20190606\CGUse\obj\Debug\CGUse.csproj.GenerateResource.Cache
+G:\CKCam_liu\CGUse\bin\Debug\CGUse.exe.config
+G:\CKCam_liu\CGUse\obj\Debug\CGUse.exe
+G:\CKCam_liu\CGUse\obj\Debug\CGUse.pdb
+E:\CKCam\CKCam_liu_20190610\CGUse\bin\Debug\CGUse.exe.config
+E:\CKCam\CKCam_liu_20190610\CGUse\obj\Debug\CGUse.exe
+E:\CKCam\CKCam_liu_20190610\CGUse\obj\Debug\CGUse.pdb
+E:\CKCam\CKCam_liu_20190610\CGUse\bin\Debug\CGUse.exe
+E:\CKCam\CKCam_liu_20190610\CGUse\bin\Debug\CGUse.pdb
+E:\CKCam\CKCam_liu_20190610\CGUse\bin\Debug\PMACam.dll
+E:\CKCam\CKCam_liu_20190610\CGUse\bin\Debug\halcondotnet.dll
+E:\CKCam\CKCam_liu_20190610\CGUse\bin\Debug\ViewROI.dll
+E:\CKCam\CKCam_liu_20190610\CGUse\bin\Debug\MvCameraControl.Net.dll
+E:\CKCam\CKCam_liu_20190610\CGUse\bin\Debug\MatchingModule.dll
+E:\CKCam\CKCam_liu_20190610\CGUse\bin\Debug\PMACam.pdb
+E:\CKCam\CKCam_liu_20190610\CGUse\bin\Debug\ViewROI.pdb
+E:\CKCam\CKCam_liu_20190610\CGUse\bin\Debug\MatchingModule.pdb
+E:\CKCam\CKCam_liu_20190610\CGUse\obj\Debug\CGUse.csprojResolveAssemblyReference.cache
+E:\CKCam\CKCam_liu_20190610\CGUse\obj\Debug\CGUse.Form1.resources
+E:\CKCam\CKCam_liu_20190610\CGUse\obj\Debug\CGUse.Properties.Resources.resources
+E:\CKCam\CKCam_liu_20190610\CGUse\obj\Debug\CGUse.csproj.GenerateResource.Cache
+E:\CKCam\程序 更新\CKCam_liu\CGUse\bin\Debug\CGUse.exe.config
+E:\CKCam\程序 更新\CKCam_liu\CGUse\obj\Debug\CGUse.exe
+E:\CKCam\程序 更新\CKCam_liu\CGUse\obj\Debug\CGUse.pdb
+E:\CKCam\程序 更新\CKCam_liu\CGUse\obj\Debug\CGUse.csprojResolveAssemblyReference.cache
+E:\CKCam\程序 更新\CKCam_liu\CGUse\obj\Debug\CGUse.Form1.resources
+E:\CKCam\程序 更新\CKCam_liu\CGUse\obj\Debug\CGUse.Properties.Resources.resources
+E:\CKCam\程序 更新\CKCam_liu\CGUse\obj\Debug\CGUse.csproj.GenerateResource.Cache
+E:\CKCam\程序 更新\CKCam_liu\CGUse\bin\Debug\CGUse.exe
+E:\CKCam\程序 更新\CKCam_liu\CGUse\bin\Debug\CGUse.pdb
+E:\CKCam\程序 更新\CKCam_liu\CGUse\bin\Debug\CGCam.dll
+E:\CKCam\程序 更新\CKCam_liu\CGUse\bin\Debug\PMACam.dll
+E:\CKCam\程序 更新\CKCam_liu\CGUse\bin\Debug\halcondotnet.dll
+E:\CKCam\程序 更新\CKCam_liu\CGUse\bin\Debug\ViewROI.dll
+E:\CKCam\程序 更新\CKCam_liu\CGUse\bin\Debug\MatchingModule.dll
+E:\CKCam\程序 更新\CKCam_liu\CGUse\bin\Debug\PMACam.pdb
+E:\CKCam\程序 更新\CKCam_liu\CGUse\bin\Debug\CGCam.pdb
+E:\CKCam\程序 更新\CKCam_liu\CGUse\bin\Debug\ViewROI.pdb
+E:\CKCam\程序 更新\CKCam_liu\CGUse\bin\Debug\MatchingModule.pdb
+E:\CKCam\程序 更新\CKCam_liu_201907011125\CGUse\bin\Debug\CGUse.exe.config
+E:\CKCam\程序 更新\CKCam_liu_201907011125\CGUse\obj\Debug\CGUse.exe
+E:\CKCam\程序 更新\CKCam_liu_201907011125\CGUse\obj\Debug\CGUse.pdb
+E:\CKCam\程序 更新_20190712\CKCam_liu_20190801\CGUse\bin\Debug\CGUse.exe.config
+E:\CKCam\程序 更新_20190712\CKCam_liu_20190801\CGUse\obj\Debug\CGUse.exe
+E:\CKCam\程序 更新_20190712\CKCam_liu_20190801\CGUse\obj\Debug\CGUse.pdb
+E:\CKCam\CKCam_liu_20190918\CGUse\bin\Debug\CGUse.exe.config
+E:\CKCam\CKCam_liu_20190918\CGUse\obj\Debug\CGUse.exe
+E:\CKCam\CKCam_liu_20190918\CGUse\obj\Debug\CGUse.pdb
+E:\CKCam\CKCam_liu_20190918\CGUse\bin\Debug\CGUse.exe
+E:\CKCam\CKCam_liu_20190918\CGUse\bin\Debug\CGUse.pdb
+E:\CKCam\CKCam_liu_20190918\CGUse\bin\Debug\CGCam.dll
+E:\CKCam\CKCam_liu_20190918\CGUse\bin\Debug\PMACam.dll
+E:\CKCam\CKCam_liu_20190918\CGUse\bin\Debug\halcondotnet.dll
+E:\CKCam\CKCam_liu_20190918\CGUse\bin\Debug\ViewROI.dll
+E:\CKCam\CKCam_liu_20190918\CGUse\bin\Debug\MatchingModule.dll
+E:\CKCam\CKCam_liu_20190918\CGUse\bin\Debug\PMACam.pdb
+E:\CKCam\CKCam_liu_20190918\CGUse\bin\Debug\CGCam.pdb
+E:\CKCam\CKCam_liu_20190918\CGUse\bin\Debug\ViewROI.pdb
+E:\CKCam\CKCam_liu_20190918\CGUse\bin\Debug\MatchingModule.pdb
+E:\CKCam\CKCam_liu_20190918\CGUse\obj\Debug\CGUse.csprojResolveAssemblyReference.cache
+E:\CKCam\CKCam_liu_20190918\CGUse\obj\Debug\CGUse.Form1.resources
+E:\CKCam\CKCam_liu_20190918\CGUse\obj\Debug\CGUse.Properties.Resources.resources
+E:\CKCam\CKCam_liu_20190918\CGUse\obj\Debug\CGUse.csproj.GenerateResource.Cache
+E:\CKCam\CKCam_liu\CGUse\obj\Debug\CGUse.Form1.resources
+E:\CKCam\CKCam_liu\CGUse\obj\Debug\CGUse.Properties.Resources.resources
+E:\CKCam\CKCam_liu\CGUse\obj\Debug\CGUse.csproj.GenerateResource.Cache
+E:\CKCam\CKCam_liu\CGUse\bin\Debug\CGUse.exe.config
+E:\CKCam\CKCam_liu\CGUse\bin\Debug\CGUse.exe
+E:\CKCam\CKCam_liu\CGUse\bin\Debug\CGUse.pdb
+E:\CKCam\CKCam_liu\CGUse\bin\Debug\CGCam.dll
+E:\CKCam\CKCam_liu\CGUse\bin\Debug\PMACam.dll
+E:\CKCam\CKCam_liu\CGUse\bin\Debug\halcondotnet.dll
+E:\CKCam\CKCam_liu\CGUse\bin\Debug\ViewROI.dll
+E:\CKCam\CKCam_liu\CGUse\bin\Debug\MatchingModule.dll
+E:\CKCam\CKCam_liu\CGUse\bin\Debug\PMACam.pdb
+E:\CKCam\CKCam_liu\CGUse\bin\Debug\CGCam.pdb
+E:\CKCam\CKCam_liu\CGUse\bin\Debug\ViewROI.pdb
+E:\CKCam\CKCam_liu\CGUse\bin\Debug\MatchingModule.pdb
+E:\CKCam\CKCam_liu\CGUse\obj\Debug\CGUse.csprojResolveAssemblyReference.cache
+E:\CKCam\CKCam_liu\CGUse\obj\Debug\CGUse.exe
+E:\CKCam\CKCam_liu\CGUse\obj\Debug\CGUse.pdb
+F:\CKCam_liu20191008\CKCam_liu\CGUse\bin\Debug\CGUse.exe.config
+F:\CKCam_liu20191008\CKCam_liu\CGUse\bin\Debug\CGUse.exe
+F:\CKCam_liu20191008\CKCam_liu\CGUse\bin\Debug\CGUse.pdb
+F:\CKCam_liu20191008\CKCam_liu\CGUse\bin\Debug\CGCam.dll
+F:\CKCam_liu20191008\CKCam_liu\CGUse\bin\Debug\PMACam.dll
+F:\CKCam_liu20191008\CKCam_liu\CGUse\bin\Debug\Basler.Pylon.dll
+F:\CKCam_liu20191008\CKCam_liu\CGUse\bin\Debug\halcondotnet.dll
+F:\CKCam_liu20191008\CKCam_liu\CGUse\bin\Debug\ViewROI.dll
+F:\CKCam_liu20191008\CKCam_liu\CGUse\bin\Debug\MatchingModule.dll
+F:\CKCam_liu20191008\CKCam_liu\CGUse\bin\Debug\PMACam.pdb
+F:\CKCam_liu20191008\CKCam_liu\CGUse\bin\Debug\CGCam.pdb
+F:\CKCam_liu20191008\CKCam_liu\CGUse\bin\Debug\ViewROI.pdb
+F:\CKCam_liu20191008\CKCam_liu\CGUse\bin\Debug\MatchingModule.pdb
+F:\CKCam_liu20191008\CKCam_liu\CGUse\obj\Debug\CGUse.csprojAssemblyReference.cache
+F:\CKCam_liu20191008\CKCam_liu\CGUse\obj\Debug\CGUse.Form1.resources
+F:\CKCam_liu20191008\CKCam_liu\CGUse\obj\Debug\CGUse.Properties.Resources.resources
+F:\CKCam_liu20191008\CKCam_liu\CGUse\obj\Debug\CGUse.csproj.GenerateResource.cache
+F:\CKCam_liu20191008\CKCam_liu\CGUse\obj\Debug\CGUse.csproj.CoreCompileInputs.cache
+F:\CKCam_liu20191008\CKCam_liu\CGUse\obj\Debug\CGUse.csproj.CopyComplete
+F:\CKCam_liu20191008\CKCam_liu\CGUse\obj\Debug\CGUse.exe
+F:\CKCam_liu20191008\CKCam_liu\CGUse\obj\Debug\CGUse.pdb
