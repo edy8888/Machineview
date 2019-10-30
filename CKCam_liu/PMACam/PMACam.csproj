@@ -1,0 +1,404 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{BC7D9A18-AF98-42DB-9DF7-BC2A26C409B9}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>PMACam</RootNamespace>
+    <AssemblyName>PMACam</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>x86</PlatformTarget>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Basler.Pylon, Version=1.1.0.0, Culture=neutral, PublicKeyToken=e389355f398382ab, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\Basler.Pylon.dll</HintPath>
+    </Reference>
+    <Reference Include="halcondotnet, Version=12.0.0.0, Culture=neutral, PublicKeyToken=4973bed59ddbf2b8, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\halcondotnet.dll</HintPath>
+    </Reference>
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="stdole, Version=7.0.3300.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Runtime.Serialization.Formatters.Soap" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xaml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+    <Reference Include="UIAutomationProvider" />
+    <Reference Include="WindowsBase" />
+    <Reference Include="WindowsFormsIntegration" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AutoSizeFormClass.cs" />
+    <Compile Include="BaslerCam.cs" />
+    <Compile Include="CommonControls\FocusPoint.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CommonControls\FocusPoint.Designer.cs">
+      <DependentUpon>FocusPoint.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CommonControls\LineLine.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CommonControls\LineLine.Designer.cs">
+      <DependentUpon>LineLine.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CommonControls\PuzzleData.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CommonControls\PuzzleData.Designer.cs">
+      <DependentUpon>PuzzleData.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CommonControls\PuzzlePicture.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CommonControls\PuzzlePicture.Designer.cs">
+      <DependentUpon>PuzzlePicture.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CommonControls\FindCircle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CommonControls\FindCircle.Designer.cs">
+      <DependentUpon>FindCircle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CommonControls\FindLine.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CommonControls\FindLine.Designer.cs">
+      <DependentUpon>FindLine.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CommonControls\FindGreyModel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CommonControls\FindGreyModel.Designer.cs">
+      <DependentUpon>FindGreyModel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CommonControls\MakeCalibration.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CommonControls\MakeCalibration.Designer.cs">
+      <DependentUpon>MakeCalibration.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CommonControls\PointLine.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CommonControls\PointLine.Designer.cs">
+      <DependentUpon>PointLine.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CommonControls\ReadBarcode.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CommonControls\ReadBarcode.Designer.cs">
+      <DependentUpon>ReadBarcode.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CommonControls\ReadQRcode.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CommonControls\ReadQRcode.Designer.cs">
+      <DependentUpon>ReadQRcode.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CommonControls\TestResultsShow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CommonControls\TestResultsShow.Designer.cs">
+      <DependentUpon>TestResultsShow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CommonControls\RegionInterest.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CommonControls\RegionInterest.Designer.cs">
+      <DependentUpon>RegionInterest.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CommonControls\RegionProcess.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CommonControls\RegionProcess.Designer.cs">
+      <DependentUpon>RegionProcess.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CommonControls\SaveGreyTem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CommonControls\SaveGreyTem.Designer.cs">
+      <DependentUpon>SaveGreyTem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CommonControls\SaveShapeTem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CommonControls\SaveShapeTem.Designer.cs">
+      <DependentUpon>SaveShapeTem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CommonControls\SmoothTest.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CommonControls\SmoothTest.Designer.cs">
+      <DependentUpon>SmoothTest.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CommonControls\BinaryPro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CommonControls\BinaryPro.Designer.cs">
+      <DependentUpon>BinaryPro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CommonControls\FindScaledShapeModel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CommonControls\FindScaledShapeModel.Designer.cs">
+      <DependentUpon>FindScaledShapeModel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CommonControls\GeneralMorphology.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CommonControls\GeneralMorphology.Designer.cs">
+      <DependentUpon>GeneralMorphology.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CommonControls\NinePointCal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CommonControls\NinePointCal.Designer.cs">
+      <DependentUpon>NinePointCal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CommonControls\ReadPictureControl.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CommonControls\ReadPictureControl.Designer.cs">
+      <DependentUpon>ReadPictureControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Camera\Basler_Camera.cs" />
+    <Compile Include="CommonControls\FloatSliderUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="CommonControls\FloatSliderUserControl.Designer.cs">
+      <DependentUpon>FloatSliderUserControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CommonControls\RoiMake.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CommonControls\RoiMake.Designer.cs">
+      <DependentUpon>RoiMake.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CommonControls\SourceManage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CommonControls\SourceManage.Designer.cs">
+      <DependentUpon>SourceManage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CommonControls\MathCalc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CommonControls\MathCalc.Designer.cs">
+      <DependentUpon>MathCalc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CommonControls\PointShow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CommonControls\PointShow.Designer.cs">
+      <DependentUpon>PointShow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CommonControls\Transformation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CommonControls\Transformation.Designer.cs">
+      <DependentUpon>Transformation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="common\ResultShow.cs" />
+    <Compile Include="Events\ShowToolGreyRegionEvent.cs" />
+    <Compile Include="Events\UpdatePuzzlePictureEvent.cs" />
+    <Compile Include="Events\UpdateFindCircleEvent.cs" />
+    <Compile Include="Events\UpdateCalibrationMakeEvent.cs" />
+    <Compile Include="Events\UpdateRegionProcessEvent.cs" />
+    <Compile Include="Events\UpdateRegionInterestEvent.cs" />
+    <Compile Include="Events\UpdateFindLineEvent.cs" />
+    <Compile Include="Events\UpdateSmoothTestEvent.cs" />
+    <Compile Include="Events\UpdateRoiMakeEvent.cs" />
+    <Compile Include="Events\UpdateMorTestEvent.cs" />
+    <Compile Include="Events\UpdateThresholdTestEvent.cs" />
+    <Compile Include="Events\UpdateSourceBufferEvent.cs" />
+    <Compile Include="Events\UpdateBufferReadImageEvent.cs" />
+    <Compile Include="Events\ShowToolResultEvent.cs" />
+    <Compile Include="Events\ShowToolRegionEvent.cs" />
+    <Compile Include="HWindow_Final.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>HWindow_Final.resx</DependentUpon>
+    </Compile>
+    <Compile Include="IniDLL.cs" />
+    <Compile Include="CommonControls\IntSliderUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="CommonControls\IntSliderUserControl.Designer.cs">
+      <DependentUpon>IntSliderUserControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="INIOperation.cs" />
+    <Compile Include="PMAControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="PMAControl.Designer.cs">
+      <DependentUpon>PMAControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Source\ExecuteBuffer.cs" />
+    <Compile Include="Source\SourceBuffer.cs" />
+    <Compile Include="Tool\MatchingForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="CommonControls\FocusPoint.resx">
+      <DependentUpon>FocusPoint.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CommonControls\LineLine.resx">
+      <DependentUpon>LineLine.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CommonControls\PuzzleData.resx">
+      <DependentUpon>PuzzleData.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CommonControls\PuzzlePicture.resx">
+      <DependentUpon>PuzzlePicture.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CommonControls\FindCircle.resx">
+      <DependentUpon>FindCircle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CommonControls\FindLine.resx">
+      <DependentUpon>FindLine.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CommonControls\FindGreyModel.resx">
+      <DependentUpon>FindGreyModel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CommonControls\FloatSliderUserControl.resx">
+      <DependentUpon>FloatSliderUserControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CommonControls\IntSliderUserControl.resx">
+      <DependentUpon>IntSliderUserControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CommonControls\MakeCalibration.resx">
+      <DependentUpon>MakeCalibration.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CommonControls\PointLine.resx">
+      <DependentUpon>PointLine.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CommonControls\ReadBarcode.resx">
+      <DependentUpon>ReadBarcode.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CommonControls\ReadQRcode.resx">
+      <DependentUpon>ReadQRcode.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CommonControls\TestResultsShow.resx">
+      <DependentUpon>TestResultsShow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CommonControls\RegionInterest.resx">
+      <DependentUpon>RegionInterest.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CommonControls\RegionProcess.resx">
+      <DependentUpon>RegionProcess.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CommonControls\SaveGreyTem.resx">
+      <DependentUpon>SaveGreyTem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CommonControls\SaveShapeTem.resx">
+      <DependentUpon>SaveShapeTem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CommonControls\SmoothTest.resx">
+      <DependentUpon>SmoothTest.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CommonControls\BinaryPro.resx">
+      <DependentUpon>BinaryPro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CommonControls\FindScaledShapeModel.resx">
+      <DependentUpon>FindScaledShapeModel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CommonControls\GeneralMorphology.resx">
+      <DependentUpon>GeneralMorphology.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CommonControls\NinePointCal.resx">
+      <DependentUpon>NinePointCal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CommonControls\ReadPictureControl.resx">
+      <DependentUpon>ReadPictureControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CommonControls\RoiMake.resx">
+      <DependentUpon>RoiMake.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CommonControls\SourceManage.resx">
+      <DependentUpon>SourceManage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CommonControls\MathCalc.resx">
+      <DependentUpon>MathCalc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CommonControls\PointShow.resx">
+      <DependentUpon>PointShow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CommonControls\Transformation.resx">
+      <DependentUpon>Transformation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HWindow_Final.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>HWindow_Final.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PMAControl.resx">
+      <DependentUpon>PMAControl.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tool\MatchingForm.resx">
+      <DependentUpon>MatchingForm.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Matching\vs2005\MatchingModule.csproj">
+      <Project>{87035c5c-b4e6-4b94-a7b9-5031a34dbfb0}</Project>
+      <Name>MatchingModule</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ViewROI\vs2005\ViewROI.csproj">
+      <Project>{c4f5c5de-7ea8-47fe-8218-48138f48965f}</Project>
+      <Name>ViewROI</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\123.bmp.tif" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
